@@ -179,6 +179,18 @@ sure to visit our FAQ documentation ``FAQ.rst``.
 
 
 
+Tutorials 
+----------
+Pygame is a popular library with many guides and tutorials available for
+new users. In addition to the resources available on this repository make
+sure to visit the official Pygame website and check the tutorials page at
+https://www.pygame.org/wiki/tutorials.
+
+To navigate the tutorials in this repository start by checking the 
+documentation at ``docs/reST/tut/README.rst``.
+
+
+
 License
 -------
 
