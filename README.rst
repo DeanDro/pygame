@@ -172,6 +172,13 @@ Dependency versions:
 
 
 
+Frequently Asked Questions
+--------------------------
+For answers to many of the frequently asked questions from new users, make
+sure to visit our FAQ documentation ``FAQ.rst``. 
+
+
+
 License
 -------
 
